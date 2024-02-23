@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello me is
+=======
+hello Earth Worldz
+>>>>>>> 41e4f642ae05973ad3d3288954fd1e5bee231c94
